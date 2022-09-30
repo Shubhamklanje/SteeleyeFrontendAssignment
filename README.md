@@ -6,3 +6,5 @@ Assignment link: https://github.com/steeleye/recruitment-ext/wiki/Frontend-Engin
 The main solution of the question is File list.js in src folder or link is here: https://github.com/Shubhamklanje/SteeleyeFrontendAssignment/blob/main/src/assests/List.js
 
 and about the other questions are covered and answered in pdf file name Assignment_solution.pdf
+
+link for pdf: https://github.com/Shubhamklanje/SteeleyeFrontendAssignment/blob/main/Assignment_solution.pdf
